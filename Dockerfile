@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM ubuntu:24.04
 MAINTAINER Jay Kline <jay@slushpupie.com>
 RUN apt-get update
 RUN apt-get -y upgrade
